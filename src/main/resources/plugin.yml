@@ -1,0 +1,7 @@
+author: dumptruckman
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: com.dumptruckman.bukkit.islandsgen.IslandsGenPlugin
+name: IslandsGen
+load: startup
+version: dev-SNAPSHOT
